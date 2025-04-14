@@ -1,0 +1,3 @@
+this file contains info for dev branch.
+I use command "git branch dev" to create this branch.
+Then, I switched to it by using this command: "git chekout dev".
