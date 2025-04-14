@@ -1,1 +1,6 @@
 this is the implementation for feature one in test branch.
+add new feature:
+registeration
+log in
+logout
+reset password
